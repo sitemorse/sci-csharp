@@ -7,9 +7,11 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<license type="expression">MIT</license>
+	<projectUrl>https://github.com/sitemorse/sci-csharp</projectUrl>
     <description>$description$</description>
     <releaseNotes>First release</releaseNotes>
     <copyright>Copyright 2022, Sitemorse (UK Sales) Ltd</copyright>
-    <tags>Sitemorse, sci</tags>
+    <tags>Sitemorse INCMS, SCI</tags>
   </metadata>
 </package>
